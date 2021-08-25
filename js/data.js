@@ -232,7 +232,7 @@ export default [
             title: "아무도 대답해주지 않은 질문들",
             link: "http://www.yes24.com/Product/Goods/51195045?OzSrank=1"
         }],
-        keywords: ["시리즈", "넷플릭스", "성교육"]
+        keywords: ["시리즈", "넷플릭스"]
     }, 
     {
         id: 18,
@@ -537,7 +537,7 @@ export default [
         title: "39화: 가족이라는 공포 <미드소마>",
         category: "movie",
         podcast: "https://www.podbbang.com/channels/1771727/episodes/23106477",
-        link: "http://program.tving.com/tvn/searchwww/",
+        link: "https://www.netflix.com/kr/title/81071055",
         relatedworks: [
             {
                 title: "유전",
